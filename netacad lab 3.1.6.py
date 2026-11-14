@@ -1,0 +1,13 @@
+netacad lab 3.1.6
+n = int(input("true"))
+print(n >= 100)
+n = int(input("true"))
+print(n >= 101)
+n = int(input("true"))
+print(n >= +123) 
+n = int(input("false"))
+print(n >= -5)
+n = int(input("false"))
+print(n >= 55)
+n = int(input("false"))
+print(n >= 99)
